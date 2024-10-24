@@ -1,0 +1,17 @@
+GET http://localhost:5224/games
+
+###
+GET http://localhost:5224/games/1
+
+
+###
+POST http://localhost:5224/games
+Content-Type: application/json
+
+{
+
+    "name": "Street ff II",
+    "genre": "Fighting",
+    "price" : 19.99,
+    "releaseDate": "2011-12-12"
+}

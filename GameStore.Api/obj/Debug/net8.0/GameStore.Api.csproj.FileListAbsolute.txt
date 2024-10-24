@@ -1,0 +1,50 @@
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\bin\Debug\net8.0\appsettings.json
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.exe
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.deps.json
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.runtimeconfig.json
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.dll
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.pdb
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.AssemblyInfoInputs.cache
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.AssemblyInfo.cs
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.CoreCompileInputs.cache
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.Api.props
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Api.props
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.Api.props
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\scopedcss\bundle\GameStore.Api.styles.css
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.dll
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\refint\GameStore.Api.dll
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
+C:\Projects\AspDotNet Projects\GameStore\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\bin\Debug\net8.0\appsettings.json
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.exe
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.deps.json
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.runtimeconfig.json
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.dll
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\bin\Debug\net8.0\GameStore.Api.pdb
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.AssemblyInfoInputs.cache
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.AssemblyInfo.cs
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.CoreCompileInputs.cache
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets\msbuild.GameStore.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.GameStore.Api.props
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GameStore.Api.props
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GameStore.Api.props
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\scopedcss\bundle\GameStore.Api.styles.css
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.dll
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\refint\GameStore.Api.dll
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
+C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
