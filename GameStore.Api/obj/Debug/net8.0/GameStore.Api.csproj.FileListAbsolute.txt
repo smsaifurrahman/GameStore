@@ -48,3 +48,4 @@ C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\refint\Ga
 C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
 C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
 C:\Projects\AspDotNetProjects\GameStore\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
+C:\Projects\AspDotNetProjects\GameStore\gamestore.api\obj\Debug\net8.0\GameStore.Api.sourcelink.json
