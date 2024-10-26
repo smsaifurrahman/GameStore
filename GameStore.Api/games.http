@@ -1,7 +1,7 @@
 GET http://localhost:5224/games
 
 ###
-GET http://localhost:5224/games/1
+GET http://localhost:5224/games/4
 
 
 ###
@@ -10,7 +10,7 @@ Content-Type: application/json
 
 {
 
-    "name": "Street ff II",
+
     "genre": "Fighting",
     "price" : 19.99,
     "releaseDate": "2011-12-12"
@@ -22,7 +22,7 @@ PUT http://localhost:5224/games/1
 Content-Type: application/json
 
 {
-    "name": "Street Fighter Max",
+    
     "genre": "Fighting",
     "price": 9.99,
     "releaseDate": "1993-07-14"

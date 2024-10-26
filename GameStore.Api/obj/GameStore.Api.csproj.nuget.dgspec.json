@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\AspDotNetProjects\\GameStore\\gamestore.api\\GameStore.Api.csproj": {}
+    "C:\\Projects\\AspDotNetProjects\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\AspDotNetProjects\\GameStore\\gamestore.api\\GameStore.Api.csproj": {
+    "C:\\Projects\\AspDotNetProjects\\GameStore\\GameStore.Api\\GameStore.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\AspDotNetProjects\\GameStore\\gamestore.api\\GameStore.Api.csproj",
+        "projectUniqueName": "C:\\Projects\\AspDotNetProjects\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "projectName": "GameStore.Api",
-        "projectPath": "C:\\Projects\\AspDotNetProjects\\GameStore\\gamestore.api\\GameStore.Api.csproj",
+        "projectPath": "C:\\Projects\\AspDotNetProjects\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
         "packagesPath": "C:\\Users\\SAIFUR\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\AspDotNetProjects\\GameStore\\gamestore.api\\obj\\",
+        "outputPath": "C:\\Projects\\AspDotNetProjects\\GameStore\\GameStore.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SAIFUR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MinimalApis.Extensions": {
+              "target": "Package",
+              "version": "[0.11.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
