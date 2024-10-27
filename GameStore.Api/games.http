@@ -10,8 +10,8 @@ Content-Type: application/json
 
 {
 
-
-    "genre": "Fighting",
+    "name": " ULTIMATE FIGHT",
+    "genreId": 4,
     "price" : 19.99,
     "releaseDate": "2011-12-12"
 }
